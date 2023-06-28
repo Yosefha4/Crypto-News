@@ -1,5 +1,5 @@
 
-# Cryptocurrency news site, built with React, Redux Toolkit, and Ant Design, featuring dynamic charts powered by Chart.js and real-time data from multiple sources via RapidAPI .
+* Cryptocurrency news site, built with React, Redux Toolkit, and Ant Design, featuring dynamic charts powered by Chart.js and real-time data from multiple sources via RapidAPI .
 
 
 # Getting Started with Create React App
